@@ -1,0 +1,8 @@
+matplotlib==3.5.1
+numpy==1.23.4
+scikit-image
+opencv_python==4.6.0.66
+onnxruntime==1.13.1
+tf2onnx==1.13.0
+onnx==1.13.0
+imagecodecs==2023.3.16
